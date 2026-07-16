@@ -1,7 +1,7 @@
 ## About Me
 * Hello! My name is Christian Byars 👋
 
-* I am a senior computer science student at SDSU 🔴⚫
+* I am a Big Data Analytics student at SDSU 🔴⚫
 
 * My interests are in Machine Learning, Data Science, and Data Visualization 🤖
 
