@@ -21,8 +21,8 @@
 ## 🔭 What I'm exploring
 
 - 🌪️ Machine learning for weather and climate forecasting
-- 📊 Data visualization that tells a story at a glance
-- 🧠 New ML/AI experiments (projects will land here as they ship)
+- 📊 Data visualization
+- 🧠 New ML/AI experiments
 
 ## 🧰 Tools I use
 
