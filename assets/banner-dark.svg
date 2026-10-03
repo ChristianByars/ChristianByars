@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="t d">
+  <title id="t">Christian Byars</title>
+  <desc id="d">Big Data Analytics at SDSU, AI weather forecasting. Animated storm-radar banner.</desc>
+  <style>
+    .name{font:700 64px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#f0f6fc}
+    .tag{font:500 28px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#8b949e}
+    .ring{fill:none;stroke:#e03c4f;stroke-width:1.5;opacity:.25;transform-origin:930px 150px;animation:pulse 4s ease-out infinite}
+    .r2{animation-delay:1.33s}.r3{animation-delay:2.66s}
+    .arms{transform-origin:930px 150px;animation:spin 24s linear infinite}
+    .arm{fill:none;stroke:#e03c4f;stroke-width:3;stroke-linecap:round}
+    .spark{fill:none;stroke:#e03c4f;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1;animation:draw 3s ease-out both}
+    .fade{animation:fade 1.2s ease-out both}
+    @keyframes pulse{from{transform:scale(.15);opacity:.9}to{transform:scale(1);opacity:0}}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    @keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+    @keyframes fade{from{opacity:0}to{opacity:1}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <rect width="1200" height="300" fill="#0d1117"/>
+  <path d="M60 0V300M120 0V300M180 0V300M240 0V300M300 0V300M360 0V300M420 0V300M480 0V300M540 0V300M600 0V300M660 0V300M720 0V300M780 0V300M840 0V300M900 0V300M960 0V300M1020 0V300M1080 0V300M1140 0V300M0 60H1200M0 120H1200M0 180H1200M0 240H1200" stroke="#30363d" stroke-width="1" opacity=".5" fill="none"/>
+  <circle class="ring" cx="930" cy="150" r="140"/>
+  <circle class="ring r2" cx="930" cy="150" r="105"/>
+  <circle class="ring r3" cx="930" cy="150" r="70"/>
+  <g class="arms">
+    <path class="arm" d="M940.0,150.0 L942.0,151.7 L943.6,154.0 L944.8,156.7 L945.5,159.8 L945.5,163.3 L944.9,166.9 L943.5,170.5 L941.4,174.1 L938.5,177.5 L934.8,180.5 L930.5,182.9 L925.6,184.7 L920.2,185.8 L914.4,185.9 L908.4,185.2 L902.4,183.4 L896.4,180.6 L890.7,176.7 L885.5,171.8 L880.9,166.0 L877.1,159.2 L874.2,151.8 L872.4,143.6 L871.9,135.1 L872.6,126.2 L874.8,117.3 L878.3,108.6 L883.2,100.2 L889.5,92.4 L897.1,85.4 L905.8,79.4 L915.6,74.7 L926.3,71.3 L937.6,69.5 L949.4,69.4 L961.3,71.0 L973.1,74.4 L984.7,79.5 L995.5,86.5 L1005.5,95.1 L1014.3,105.4 L1021.7,117.0 L1027.5,129.8 L1031.5,143.6 L1033.4,158.1 L1033.3,173.1 L1031.0,188.1 L1026.4,203.0 L1019.6,217.3 L1010.7,230.7 L999.8,243.0 L987.0,253.7 L972.6,262.6 L956.7,269.5 L939.8,274.2 L922.0,276.4 L903.9,276.1 L885.7,273.1 L867.8,267.5 L850.6,259.2"/>
+    <path class="arm" d="M925.0,158.7 L922.5,159.5 L919.8,159.8 L916.8,159.5 L913.8,158.5 L910.8,156.8 L907.9,154.4 L905.5,151.4 L903.4,147.8 L902.0,143.6 L901.2,139.0 L901.2,134.0 L902.1,128.8 L903.9,123.6 L906.6,118.6 L910.3,113.7 L914.9,109.4 L920.3,105.6 L926.5,102.6 L933.4,100.5 L940.7,99.5 L948.5,99.5 L956.4,100.8 L964.3,103.3 L972.0,107.1 L979.3,112.2 L985.9,118.5 L991.7,125.9 L996.5,134.4 L1000.1,143.7 L1002.4,153.8 L1003.2,164.4 L1002.4,175.2 L1000.0,186.1 L995.9,196.8 L990.1,207.1 L982.8,216.6 L973.9,225.2 L963.7,232.6 L952.2,238.5 L939.8,242.8 L926.5,245.4 L912.7,246.0 L898.7,244.5 L884.8,241.1 L871.2,235.5 L858.4,227.9 L846.5,218.4 L835.9,207.0 L826.9,194.0 L819.7,179.5 L814.6,164.0 L811.7,147.5 L811.2,130.5 L813.1,113.4 L817.6,96.4 L824.5,79.9 L833.9,64.4 L845.6,50.1 L859.4,37.4 L875.1,26.7" opacity=".75"/>
+    <path class="arm" d="M925.0,141.3 L925.5,138.8 L926.6,136.2 L928.4,133.8 L930.8,131.7 L933.7,129.9 L937.2,128.7 L941.0,128.0 L945.2,128.1 L949.6,128.9 L954.0,130.6 L958.2,133.1 L962.3,136.4 L965.9,140.6 L968.9,145.5 L971.2,151.1 L972.7,157.2 L973.3,163.8 L972.8,170.7 L971.2,177.7 L968.4,184.6 L964.5,191.2 L959.4,197.5 L953.3,203.0 L946.1,207.8 L938.1,211.6 L929.3,214.2 L920.0,215.5 L910.2,215.4 L900.4,213.9 L890.5,210.8 L881.0,206.2 L872.0,200.1 L863.7,192.5 L856.5,183.6 L850.5,173.5 L845.9,162.4 L842.9,150.5 L841.7,137.9 L842.2,125.0 L844.7,112.0 L849.2,99.3 L855.5,87.1 L863.8,75.6 L873.7,65.3 L885.3,56.4 L898.4,49.0 L912.6,43.5 L927.7,40.0 L943.5,38.7 L959.5,39.7 L975.6,43.1 L991.3,48.8 L1006.3,56.8 L1020.2,67.1 L1032.7,79.4 L1043.5,93.7 L1052.2,109.6 L1058.8,126.8 L1062.8,145.1 L1064.3,164.1" opacity=".5"/>
+  </g>
+  <circle cx="930" cy="150" r="9" fill="#0d1117" stroke="#e03c4f" stroke-width="3"/>
+  <g class="fade">
+    <text class="name" x="60" y="125">Christian Byars</text>
+    <text class="tag" x="60" y="170">Big Data Analytics @ SDSU</text>
+    <text class="tag" x="60" y="206">AI weather forecasting</text>
+  </g>
+  <path class="spark" pathLength="1" d="M60.0,268.0 L115.6,262.8 L171.1,264.5 L226.7,257.5 L282.2,259.2 L337.8,250.5 L393.3,253.3 L448.9,245.2 L504.4,247.0 L560.0,241.8"/>
+</svg>
