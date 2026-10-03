@@ -24,14 +24,22 @@
 - 📊 Data visualization that tells a story at a glance
 - 🧠 New ML/AI experiments (projects will land here as they ship)
 
+## 🧰 Tools I use
+
+<p>
+  <b>🤖 ML</b> &nbsp;<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"><br>
+  <b>🌀 Weather</b> &nbsp;<img alt="Earth2Studio" src="https://img.shields.io/badge/Earth2Studio-76B900?style=flat-square&logo=nvidia&logoColor=white"><br>
+  <b>📚 Data</b> &nbsp;<img alt="xarray" src="https://img.shields.io/badge/xarray-1B6CA8?style=flat-square"> <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"> <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"><br>
+  <b>📊 Viz</b> &nbsp;<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"> <img alt="Cartopy" src="https://img.shields.io/badge/Cartopy-2E7D32?style=flat-square"><br>
+  <b>🖥️ Apps</b> &nbsp;<img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
+</p>
+
 ## 💬 Say hi
 
 <a href="https://www.linkedin.com/in/cblimsdsu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 
-## 🐍 Contribution snake
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristianByars/ChristianByars/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChristianByars/ChristianByars/output/github-contribution-grid-snake.svg">
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/ChristianByars/ChristianByars/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/waves-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/waves-light.svg">
+  <img alt="" src="assets/waves-dark.svg" width="100%">
 </picture>
