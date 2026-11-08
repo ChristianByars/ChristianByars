@@ -27,11 +27,11 @@
 ## 🧰 Tools I use
 
 <p>
-  <b>🤖 ML</b> &nbsp;<a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"></a><br>
-  <b>🌀 Weather</b> &nbsp;<a href="#"><img alt="Earth2Studio" src="https://img.shields.io/badge/Earth2Studio-76B900?style=flat-square&logo=nvidia&logoColor=white"></a><br>
-  <b>📚 Data</b> &nbsp;<a href="#"><img alt="xarray" src="https://img.shields.io/badge/xarray-1B6CA8?style=flat-square"></a> <a href="#"><img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"></a> <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"></a><br>
-  <b>📊 Viz</b> &nbsp;<a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"></a> <a href="#"><img alt="Cartopy" src="https://img.shields.io/badge/Cartopy-2E7D32?style=flat-square"></a><br>
-  <b>🖥️ Apps</b> &nbsp;<a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"></a>
+  <b>🤖 ML</b> &nbsp;<a href="#"><img align="absmiddle" alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"></a><br>
+  <b>🌀 Weather</b> &nbsp;<a href="#"><img align="absmiddle" alt="Earth2Studio" src="https://img.shields.io/badge/Earth2Studio-76B900?style=flat-square&logo=nvidia&logoColor=white"></a><br>
+  <b>📚 Data</b> &nbsp;<a href="#"><img align="absmiddle" alt="xarray" src="https://img.shields.io/badge/xarray-1B6CA8?style=flat-square"></a> <a href="#"><img align="absmiddle" alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"></a> <a href="#"><img align="absmiddle" alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"></a><br>
+  <b>📊 Viz</b> &nbsp;<a href="#"><img align="absmiddle" alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"></a> <a href="#"><img align="absmiddle" alt="Cartopy" src="https://img.shields.io/badge/Cartopy-2E7D32?style=flat-square"></a><br>
+  <b>🖥️ Apps</b> &nbsp;<a href="#"><img align="absmiddle" alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"></a>
 </p>
 
 ## 💬 Say hi
